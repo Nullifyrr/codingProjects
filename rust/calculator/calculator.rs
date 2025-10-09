@@ -37,6 +37,6 @@ fn calc(x: f32, y: f32, o: &str) {
     } else if o == "^" {
         println!("{x} ^ {x} = {}", x.powf(y));
     } else {
-        println!("ERR: Invalid Operation!");
+        println!("ERR: Invalid operation!");
     }
 } 
