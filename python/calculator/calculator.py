@@ -24,6 +24,6 @@ print("What about the operation?")
 o = input("")
 
 print("Finally, the second number?")
-y = float(input(""))
+y = float(input("")
 
 calc(x,y,o)
